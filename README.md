@@ -1,4 +1,6 @@
-# Mercado Insights: Brazilian E-Commerce Data Analysis
+# Trust_Sheild
+
+![Uploading er_diagram.png…]()
 
 ## 📌 Project Overview
 This project analyzes the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) using **PostgreSQL** and **Python**.  
@@ -138,4 +140,5 @@ This will produce PNG files in `charts/` and Excel file in `exports/`.
 1. Run `python analytics.py` (show a chosen chart).
 2. Run `insert_demo.sql` in pgAdmin or psql to add a demo order.
 3. Re-run `python analytics.py` and show that the chart changed.
+
 
