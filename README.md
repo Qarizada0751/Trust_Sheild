@@ -1,4 +1,4 @@
-![Uploading er_diagram.png…]()
+
 
 # Trust_Sheild
 
@@ -140,6 +140,7 @@ This will produce PNG files in `charts/` and Excel file in `exports/`.
 1. Run `python analytics.py` (show a chosen chart).
 2. Run `insert_demo.sql` in pgAdmin or psql to add a demo order.
 3. Re-run `python analytics.py` and show that the chart changed.
+
 
 
 
